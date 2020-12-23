@@ -1,11 +1,20 @@
 /** @format */
+@import url("fonts.css");
 
 .dropdown {
   width: 40px;
 }
 
 body {
+  font-family: Roboto;
+  font-weight: 100;
   background: #d6f897;
+}
+.bold {
+  font-weight: 700;
+}
+.italic {
+  font-style: italic;
 }
 
 .to-right {
