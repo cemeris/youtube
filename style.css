@@ -1,0 +1,14 @@
+/** @format */
+
+.dropdown {
+  width: 40px;
+}
+
+body {
+  background: #d6f897;
+}
+
+.to-right {
+  fill: rgb(93, 155, 0);
+  transform: rotate(-90deg);
+}
